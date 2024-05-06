@@ -1,2 +1,2 @@
 # Learning
-Ambiente de aprendizado de novas linguagens 
+Ambiente para aprender novas linguagens 
